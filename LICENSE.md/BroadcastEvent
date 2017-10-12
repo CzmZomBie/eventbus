@@ -1,3 +1,9 @@
+package czmstudio.broadcast;
+
+/**
+ * Created by czm on 2017/10/12 0012.
+ */
+
 public class BroadcastEvent {
 
     private String broadcastMsg;
