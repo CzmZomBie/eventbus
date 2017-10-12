@@ -1,0 +1,19 @@
+public class BroadcastEvent {
+
+    private String broadcastMsg;
+
+    public BroadcastEvent() {
+    }
+
+    public BroadcastEvent(String broadcastMsg) {
+        this.broadcastMsg = broadcastMsg;
+    }
+
+    public String getMsg() {
+        return broadcastMsg;
+    }
+
+    public void setMsg(String broadcastMsg) {
+        this.broadcastMsg = broadcastMsg;
+    }
+}
